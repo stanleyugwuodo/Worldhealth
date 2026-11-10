@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/visitors.js": {
+      "maxDuration": 10
+    }
+  }
+}
